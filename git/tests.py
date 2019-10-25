@@ -13,7 +13,7 @@ from base_types_exceptions_loops.homework import (
     remove_from_list_all_negative_numbers,
     some_loop_exercise
 )
-
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
 
 class TestObjectsComparison(unittest.TestCase):
 
